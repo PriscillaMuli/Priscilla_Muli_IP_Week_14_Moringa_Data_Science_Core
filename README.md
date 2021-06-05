@@ -1,4 +1,4 @@
-# Priscilla_Muli_IP_Week_14_Moringa_Data_Science_Core
+# Independent Project Week 14 Moringa Data Science Core Program
 
 **Carrefour-Kenya-Unsupervised-Learning-Techniques**
 
