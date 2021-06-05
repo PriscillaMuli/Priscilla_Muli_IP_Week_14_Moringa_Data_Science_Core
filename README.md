@@ -1,6 +1,6 @@
 # Priscilla_Muli_IP_Week_14_Moringa_Data_Science_Core
 
-**Carrefour-Kenya-unsupervised-learning-techniques**
+**Carrefour-Kenya-Unsupervised-Learning-Techniques**
 
 Undertaking a project that will inform the marketing department on the most relevant marketing strategies that will result in the highest no. of sales (total price including tax).
 
